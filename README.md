@@ -3,7 +3,7 @@
 
 <p></p>
 
-#### This solution aims at employing cutting edge AI methods and techniques for images processing to enable disease identification, predictive analytics and simulation with Spatial AI for what-if analysis and scenario planning. The simulation for what-if planning part will take place on the backend services to enable and should get updates in near-real-time or on demand upon request by a decision maker.
+#### TThis solution aims at employing cutting edge AI methods and techniques for images processing to enable economics multidimensional modeling, predictive analytics and simulation with AI algorithms/models for what-if analysis and scenario planning. Targets are inclusive of consumer/behavioral economy in addition to macroeconomy and micro economy levels while favoring fusion of different domains and aspects to go beyond traditional econometric models.
 
 <p></p>
 
